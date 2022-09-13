@@ -145,4 +145,11 @@ cd ..
 ./build/examples/openpose/openpose.bin --face --hand --keypoint_scale 3 --frame_step 3 --video "..\..\..\examples\media\se.flv" --write_json ..\..\..\examples\output\data\keypoints --display 0 --write_video ..\..\..\examples\output\data\video\openpose.avi --write_images ..\..\..\examples\output\data\images
 ```
 
-
+## Citation
+     https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/v1.3.0/doc/quick_start.md
+     https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation/0_index.md#windows-portable-demo
+     https://dagshub.com/Dean/openpose/src/master/doc/demo_overview.md
+     https://dagshub.com/Dean/openpose/src/master/doc/output.md
+     https://medium.com/@aartibalana/openpose-installation-2021-guide-ubuntu-18-04-c1e2c5964dc5
+     https://github.com/CMU-Perceptual-Computing-Lab/openpose/issues/164
+     https://dagshub.com/Dean/openpose/src/master/doc/quick_start.md#quick-start
