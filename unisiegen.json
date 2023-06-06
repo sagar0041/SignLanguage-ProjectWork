@@ -1,48 +1,37 @@
 [
-  {
-    "instruction": "Mask obligation",
-    "input": "Wearing a mask is obligatory for all participants of an examination (incl. the invigilator) during the entire examination time. Access to the examination room is not permitted without a mask. Before or during the examination, the mask may be pulled down briefly for identification purposes or to eat or drink something. Students who do not wear a mask beyond these exceptions may be excluded from the examination. In this case, the exam will be counted as 'failed to appear' (and thus failed). We recommend wearing FFP2 masks, which provide better protection than surgical masks. There is an exception to the mask requirement only for medical reasons; in this case, the examinees must be able to show the relevant medical certificate.",
-    "output": "Wearing a mask is mandatory for all participants (including invigilator) during the entire examination. Access to the exam room is prohibited without a mask. Mask can be briefly pulled down for identification or consuming food/drink. Failure to comply with mask requirement may result in exclusion from the exam, considered as 'failed to appear.' FFP2 masks are recommended for better protection. Medical exceptions require a valid medical certificate."
-  },
-  {
-    "instruction": "Proof of immunization or testing",
-    "input": "Upon entry to the examination room, the examiners or the examination supervisor are required to check proof of immunization or testing. Students who fail to provide the required evidence will not be allowed to take the examination and will be recorded as 'failed to appear' (i.e., failed). The Appendix provides a list of acceptable evidence for immunization or testing.",
-    "output": "Proof of immunization or testing is mandatory for entry into the exam room. Failure to provide the required evidence will result in disallowance from the exam and recorded as 'failed to appear.' Acceptable evidence is listed in the Appendix."
-  },
-  {
-    "instruction": "Home isolation (quarantine)",
-    "input": "Due to the expected course of the pandemic, it is likely that there will be students who are in domestic isolation (quarantine) on the date of an attendance examination. A quarantine, if necessary, will be evaluated like a medical certificate, i.e. the affected students will be subsequently deregistered from the examination by the examination office. The prerequisite is that the necessity of the quarantine is proven by a written confirmation. Exactly which written confirmation must be provided can be found in the following sections. It must be sent to the examination office within 4 weeks of the examination day (by e-mail, e.g. as a scan of the documents required for the proof). In addition, the examination office must be informed by email of non-participation in the examination no later than on the day of the examination.",
-    "output": "If students are in home isolation (quarantine) on the exam date, it will be treated as a medical certificate. They will be deregistered from the exam upon providing written confirmation of the quarantine's necessity. The confirmation must be sent to the examination office within 4 weeks of the exam day. Additionally, non-participation must be informed to the examination office via email on the day of the exam."
-  },
-  {
-    "instruction": "Quarantine & proof for the examination office (I)",
-    "input": "In case of own infection: quarantine for at least 10 days (free testing possible after 7 days). Proof by the result of an official rapid test/PCR test or by a quarantine certificate from the health office or the public order office.",
-    "output": "In case of own infection, a quarantine of at least 10 days is required (free testing after 7 days). Proof can be provided through an official rapid test/PCR test result or a quarantine certificate from the health office/public order office."
-  },
-  {
-    "instruction": "Quarantine & proof for the examination office (II)",
-    "input": "As a general rule, persons living in the same household as an infected person must go into home isolation for at least 10 days even without a quarantine order (free testing possible after 7 days). As proof, the examination office requires the test result for the infected person, plus proof of the shared address, e.g. copies of the registration certificates (at the residents' registration office).",
-    "output": "Household members of an infected person must generally isolate for at least 10 days, even without a quarantine order (free testing after 7 days). The examination office requires the infected person's test result and proof of shared address (e.g., copies of registration certificates) as evidence."
-  },
-  {
-    "instruction": "Corona-related emergencies",
-    "input": "Even if one does not have to go into quarantine oneself, corona-related emergencies can occur, e.g. if one's own child is not allowed to go to daycare after a positive pool test (lollipop test) and no care can be organized at short notice. In such cases, non-attendance at an examination will not be counted upon informal application to the relevant subject examination board. The request must be made within 4 weeks and must be accompanied by suitable written proof of the emergency.",
-    "output": "In case of corona-related emergencies, such as a child being unable to attend daycare after a positive pool test without immediate alternative care, non-attendance at an exam will be excused upon informal application to the relevant subject examination board. The request, accompanied by appropriate written proof of the emergency, must be made within 4 weeks."
-  },
-  {
-    "instruction": "Buildings, rooms, and seats",
-    "input": "All exterior doors leading directly to rooms where exams are written will be open. You can find where these entrances are located in the following tables as well as the maps in the appendix...\n\nAll rooms in which exams are written either have automatic ventilation that reduces the concentration of aerosols or are regularly ventilated through the windows. This serves to protect against infection, but also means that the temperature in these rooms tends to be low. Please be prepared for this and dress warmly.",
-    "output": "Exterior doors to exam rooms will be open. Details of the entrances can be found in the tables and maps provided. Exam rooms have automatic ventilation or regular window ventilation to reduce aerosol concentration. The rooms may be cooler, so dress warmly."
-  },
-  {
-    "instruction": "Online exams",
-    "input": "If you do not have the necessary equipment at home to take an online exam, an exam station at the university can be made available to you. Please contact the officer of the Prorector for Education, Katharina Jabs (katharina.jabs@uni-siegen.de)...\n\nIf on an examination date, you had to go to in domestic isolation (quarantine), your non-attendance at the examination will not be counted upon informal request to the relevant examination board. The request must be made within 4 weeks and must be accompanied by proof of the need for quarantine (details above under 'Home Isolation (Quarantine)'). This regulation takes into account the fact that some of the affected students may not have a suitable examination environment at home.\n\nStudents who wish to take an online exam despite being isolated at home may do so under the exam conditions that apply to all participants.",
-    "output": "For students without necessary equipment for online exams, the university can provide an exam station upon contact with the officer of the Prorector for Education, Katharina Jabs (katharina.jabs@uni-siegen.de)...\n\nIf you are in domestic isolation (quarantine) on an exam date, your non-attendance will not be counted upon an informal request to the relevant examination board. The request, accompanied by proof of the need for quarantine (as mentioned under 'Home Isolation (Quarantine)'), must be made within 4 weeks. This acknowledges that some students may not have a suitable exam environment at home...\n\nStudents isolated at home can choose to take the online exam under the same conditions as other participants."
-  },
-  {
-    "instruction": "Proof of immunization against or testing for Covid-19",
-    "input": "Regardless of whether students are vaccinated, recovered, or tested, additional photo identification must always be checked, i.e., ID card/passport or USi card with photo.\n\nVaccinated:\n2G vignette of the University of Siegen. The vignette is stuck on the back of the USiCard and is only valid there.\nProof of vaccination:\nYellow vaccination card: WHO vaccination card with the full name of the person and pasted vaccine brands of the active substances approved by the EMA (BioNTech, Moderna, AstraZeneca, Johnson & Johnson). After the second vaccination, 14 days must have passed, the booster vaccination is valid from the day of the vaccination date.\nDigital vaccination certificate: The second 'EU Digital Covid Vaccination Certificate' in printed form or in a smartphone app (e.g. CovPass, Corona warning app). 14 days must have passed after the last or the second vaccination, the booster vaccination is valid from the day of the vaccination date.\n\nRecovered:\nProof of a past infection in the form of a positive PCR test result. The date of detection must be at least 28 days and no more than 90 days ago. The detection is performed by:\nPCR result from a laboratory, physician, testing site, or testing center.\nMedical certificate, certificate of segregation, other certificates from authorities, recovery cards from a health office: must contain information on the type of test (PCR) and the test or notification date.\n\nTested:\nEvidence of a negative COVID-19 test by a certified negative result. Suitable detection methods are:\nThe result of a rapid antigen test (citizen test) performed by trained personnel (not older than 24 hours). NOT ELIGIBLE are so-called online tests, where a self-test is 'certified' by a physician (e.g. Dr. Ansay, Test-Express).\nThe result of a PCR test performed by a recognized laboratory (not older than 48 hours).",
-    "output": "For all students, regardless of vaccination, recovery, or testing status, additional photo identification (ID card/passport or USi card with photo) must always be checked...\n\nVaccinated:\n- 2G vignette of the University of Siegen, affixed to the back of the USiCard\n- Yellow vaccination card (WHO vaccination card) with the person's full name and pasted vaccine brands approved by the EMA (BioNTech, Moderna, AstraZeneca, Johnson & Johnson). Booster vaccination is valid from the day of vaccination date, 14 days after the second vaccination.\n- Digital vaccination certificate (second 'EU Digital Covid Vaccination Certificate') in printed form or smartphone app (e.g., CovPass, Corona warning app). Booster vaccination is valid from the day of vaccination date, 14 days after the last or second vaccination.\n\nRecovered:\n- Proof of past infection with a positive PCR test result. Detection must be at least 28 days and no more than 90 days ago.\n- PCR result from a laboratory, physician, testing site, or testing center.\n- Medical certificate, certificate of segregation, other certificates from authorities, recovery cards from a health office, indicating test type (PCR) and date of test/notification.\n\nTested:\n- Evidence of negative COVID-19 test with a certified negative result.\n- Rapid antigen test (citizen test) performed by trained personnel, not older than 24 hours (online tests not eligible).\n- PCR test performed by a recognized laboratory, not older than 48 hours."
-  }
-]
-
+    {
+        "instruction": "Give three tips for staying healthy.",
+        "input": "",
+        "output": "1. Eat a balanced diet and make sure to include plenty of fruits and vegetables. \n2. Exercise regularly to keep your body active and strong. \n3. Get enough sleep and maintain a consistent sleep schedule."
+    },
+    {
+        "instruction": "What are the three primary colors?",
+        "input": "",
+        "output": "The three primary colors are red, blue, and yellow."
+    },
+    {
+        "instruction": "Describe the structure of an atom.",
+        "input": "",
+        "output": "An atom is made up of a nucleus, which contains protons and neutrons, surrounded by electrons that travel in orbits around the nucleus. The protons and neutrons have a positive charge, while the electrons have a negative charge, resulting in an overall neutral atom. The number of each particle determines the atomic number and the type of atom."
+    },
+    {
+        "instruction": "How can we reduce air pollution?",
+        "input": "",
+        "output": "There are a number of ways to reduce air pollution, such as shifting to renewable energy sources, encouraging the use of public transportation, prohibiting the burning of fossil fuels, implementing policies to reduce emissions from industrial sources, and implementing vehicle emissions standards. Additionally, individuals can do their part to reduce air pollution by reducing car use, avoiding burning materials such as wood, and changing to energy efficient appliances."
+    },
+    {
+        "instruction": "Pretend you are a project manager of a construction company. Describe a time when you had to make a difficult decision.",
+        "input": "",
+        "output": "I had to make a difficult decision when I was working as a project manager at a construction company. I was in charge of a project that needed to be completed by a certain date in order to meet the client\u2019s expectations. However, due to unexpected delays, we were not able to meet the deadline and so I had to make a difficult decision. I decided to extend the deadline, but I had to stretch the team\u2019s resources even further and increase the budget. Although it was a risky decision, I ultimately decided to go ahead with it to ensure that the project was completed on time and that the client\u2019s expectations were met. The project was eventually successfully completed and this was seen as a testament to my leadership and decision-making abilities."
+    },
+    {
+        "instruction": "Identify the odd one out.",
+        "input": "Twitter, Instagram, Telegram",
+        "output": "Telegram"
+    },
+    {
+        "instruction": "Explain why the following fraction is equivalent to 1/4",
+        "input": "4/16",
+        "output": "The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers by 4 yields the fraction 1/4."
+    },
+  ]
