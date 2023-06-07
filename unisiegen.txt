@@ -1,0 +1,169 @@
+Information on the examinations of the winter semester 2021/22
+January 24, 2022
+1. Written and oral examinations in presence
+Mask obligation
+Wearing a mask is obligatory for all participants of an examination (incl. the invigilator) during the
+entire examination time. Access to the examination room is not permitted without a mask. Before or
+during the examination, the mask may be pulled down briefly for identification purposes or to eat or
+drink something. Students who do not wear a mask beyond these exceptions may be excluded from
+the examination. In this case, the exam will be counted as "failed to appear" (and thus failed).
+We recommend to wear FFP2 masks, which provide better protection than surgical masks. There is
+an exception to the mask requirement only for medical reasons; in this case, the examinees must be
+able to show the relevant medical certificate.
+Proof of immunization against or testing for Covid-19
+Upon entry to the examination room, the examiners or the examination supervisor are required to
+check a proof of immunization or testing. Students who fail to provide the required evidence will not
+be allowed to take the examination and will be recorded as "failed to appear" (i.e., failed). The
+Appendix provides a list of acceptable evidence for immunization or testing.
+Home isolation (quarantine)
+Due to the expected course of the pandemic, it is likely that there will be students who are in
+domestic isolation (quarantine) on the date of an attendance examination. A quarantine, if
+necessary, will be evaluated like a medical certificate, i.e. the affected students will be subsequently
+deregistered from the examination by the examination office. The prerequisite is that the necessity
+of the quarantine is proven by a written confirmation.
+Exactly which written confirmation must be provided can be found in the following sections. It must
+be sent to the examination office within 4 weeks of the examination day (by e-mail, e.g. as a scan of
+the documents required for the proof). In addition, the examination office must be informed by email
+of non-participation in the examination no later than on the day of the examination.
+Quarantine & proof for the examination office (I)
+In the following cases, it is necessary to go into quarantine in any case:
+• In case of own infection: quarantine for at least 10 days (free testing possible after 7 days).
+Proof by the result of an official rapid test/PCR test or by a quarantine certificate from the
+health office or the public order office,
+• In case of quarantine order: duration of quarantine as described in the order. Evidence:
+written quarantine order.
+Quarantine & proof for the examination office (II)
+2
+Things get complicated for household members and the so-called contacts (Kontaktpersonen) of
+infected persons, because the following rules do not apply to vaccinated or recovered persons under
+all circumstances.
+As a general rule, persons living in the same household as an infected person must go into home
+isolation for at least 10 days even without a quarantine order (free testing possible after 7 days). As
+proof, the examination office requires the test result for the infected person, plus proof of the shared
+address, e.g. copies of the registration certificates (at the residents' registration office).
+"Contacts" (Kontaktpersonen) are anyone who learns, either through a red alert in the Corona app or
+personal information from infected individuals, that they may have become infected themselves. If
+this is the case, according to the country's guidelines, one should isolate oneself for at least 10 days
+(i.e. only leave the house in justified exceptional cases). For everyone's protection, we ask you to do
+this. The necessary proof for the domestic isolation of contact persons differs from city to city. In
+Siegen-Wittgenstein, for example, there is a contact form on the district's website that for contacts.
+It gets complicated because the following groups of people are exempt from the requirement
+(household members) or urgent recommendation (contacts) of home isolation:
+• Triple vaccinated,
+• Twice vaccinated, if the second vaccination was more than 14 days and less than 90 days
+ago,
+• Convalescents who have been vaccinated at least once thereafter,
+• Recovered without subsequent vaccination if the PCR test confirming infection was more
+than 27 days and less than 90 days ago.
+Briefly summarized: Anyone who is neither vaccinated nor recovered as a household member or
+contact person must be quarantined. Those who are triple vaccinated or recovered+vaccinated do
+not have to. For those who have been vaccinated twice and those who have recovered without
+subsequent vaccination, it depends on how long ago the last vaccination/infection occurred.
+Those who do not have to go into quarantine can, of course, take attendance exams. However, for
+the protection of everyone else, the university asks that you take a test before the exam to be on the
+safe side.
+Corona-related emergencies
+Even if one does not have to go into quarantine oneself, corona-related emergencies can occur, e.g.
+if one's own child is not allowed to go to daycare after a positive pool test (lollipop test) and no care
+can be organized at short notice. In such cases, non-attendance at an examination will not be
+counted upon informal application to the relevant subject examination board. The request must be
+made within 4 weeks and must be accompanied by suitable written proof of the emergency.
+Buildings, rooms and seats
+All exterior doors leading directly to rooms where exams are written will be open. You can find
+where these entrances are located in the following tables as well as the maps in the appendix.
+3
+Adolf-Reichwein-Campus (map 1)
+Examination room Entrance (orange circle on the map) GPS coordinates
+(Google Maps)
+AR-D 5102 bis 5105
+(bunte Hörsäle)
+No. 20, entrance to building part D via the
+Affenfelsen
+50.910437, 8.025676
+AR-E 8101 (Audimax) Glass staircase to the right of building entrance
+No. 20 (see above)
+50.910596, 8.025724
+AR-H 102
+AR-M (Mensa)
+No. 2, main entrance to the Mensa 50.910642, 8.026872
+Hölderlin-Campus (map 2)
+Examination room Entrance (orange circle on the map) GPS coordinates
+(Google Maps)
+H-C 3305
+No. 1, main entrance, access from
+Hölderlinstraße
+50.906096, 8.028252
+Paul-Bonatz-Campus (map 3)
+Examination room Entrance (orange circle on the map) GPS coordinates
+(Google Maps)
+PB-A 117/1
+PB-A 401
+PB-A 406
+No. 9, main entrance to building part A 50.902826, 8.030486
+PB-C 101
+PB-I 101
+No. 7, main entrance to building part C 50.903193, 8.030116
+Emmy-Noether-Campus (map 4)
+Examination room Entrance (orange circle on the map) GPS coordinates
+(Google Maps)
+ENC-D 114
+ENC-D 308
+No. 8, main entrance 50.874013, 8.004881
+Campus Unteres Schloss (map 5)
+Examination room Entrance (orange circle on the map) GPS coordinates
+(Google Maps)
+US-F 002 No. 1, main entrance to building part D 50.873286, 8.023260
+All exterior doors leading to the partial libraries open during the non-lecture period are also open. All
+other doors remain closed to the public. For examinations in rooms other than those mentioned
+above, e.g. oral examinations, the examiners will let you into the building.
+In the examination rooms, those seats that may be occupied are marked with a green sticker; all
+other seats may not be occupied.
+4
+All rooms in which exams are written either have automatic ventilation that reduces the
+concentration of aerosols or are regularly ventilated through the windows. This serves to protect
+against infection, but also means that the temperature in these rooms tends to be low. Please be
+prepared for this and dress warmly.
+2. Online exams
+If you do not have the necessary equipment at home to take an online exam, an exam station at the
+university can be made available to you. Please contact the officer of the Prorector for Education,
+Katharina Jabs (katharina.jabs@uni-siegen.de).
+If on an examination date, you had to go to in domestic isolation (quarantine), your non-attendance
+at the examination will not be counted upon informal request to the relevant examination board.
+The request must be made within 4 weeks and must be accompanied by proof of the need for
+quarantine (details above under "Home Isolation (Quarantine)"). This regulation takes into account
+the fact that some of the affected students may not have a suitable examination environment at
+home.
+Students who wish to take an online exam despite being isolated at home may do so under the exam
+conditions that apply to all participants.
+5
+Attachment: Proof of immunization against or testing for Covid-19
+Regardless of whether students are vaccinated, recovered, or tested, additional photo identification
+must always be checked, i.e., ID card/passport or USi card with photo.
+Vaccinated
+• 2G vignette of the University of Siegen. The vignette is stuck on the
+back of the USiCard and is only valid there.
+• Proof of vaccination:
+o Yellow vaccination card: WHO vaccination card with the full
+name of the person and pasted vaccine brands of the active substances approved by
+the EMA (BioNTech, Moderna, AstraZeneca, Johnson & Johnson). After the second
+vaccination 14 days must have passed, the booster vaccination is valid from the day
+of the vaccination date.
+o Digital vaccination certificate: The second "EU Digital Covid Vaccination Certificate"
+in printed form or in a smartphone app (e.g. CovPass, Corona warning app). 14 days
+must have passed after the last or the second vaccination, the booster vaccination is
+valid from the day of the vaccination date.
+Recovered
+• Proof of a past infection in the form of a positive PCR test result. The date of detection must
+be at least 28 days and no more than 90 days ago. The detection is performed by:
+o PCR result from a laboratory, physician, testing site or testing center.
+o Medical certificate, certificate of segregation, other certificates from authorities,
+recovery cards from a health office: must contain information on the type of test
+(PCR) and the test or notification date.
+Tested
+• Evidence of a negative COVID-19 test by a certified negative result. Suitable detection
+methods are:
+o the result of a rapid antigen test (citizen test) performed by trained personnel (not
+older than 24 hours). NOT ELIGIBLE are so-called online tests, where a self-test is
+"certified" by a physician (e.g. Dr. Ansay, Test-Express).
+o the result of a PCR test performed by a recognized laboratory (not older than 48
+hours).
