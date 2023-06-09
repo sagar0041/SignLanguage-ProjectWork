@@ -1,11 +1,5 @@
 [
   {
-    "instruction": "Examinations in the winter semester 2021/22",
-    "input": "safase",
-    "output": "The examinations for the winter semester 2021/22 will take place on January 24 2022.",
-    "category": "Academic"
-  },
-  {
     "instruction": "Mask obligation during examinations",
     "input": "1. Written and oral examinations require the presence of participants. Mask obligation: Wearing a mask is obligatory for all participants, including invigilators, throughout the entire examination time.",
     "output": "All participants, including invigilators, are required to wear masks during written and oral examinations.",
