@@ -1,866 +1,866 @@
-[	
-	{
-		"instruction": "Examinations in the winter semester 2021/22",
-		"input": "Examinations in the winter semester 2021/22 January 24, 2022",
-		"output": "The examinations for the winter semester 2021/22 will take place on January 24, 2022.",
-		"category": "Academic"
-	},
-	{
-		"instruction": "Mask obligation during examinations",
-		"input": "1. Written and oral examinations require the presence of participants. Mask obligation: Wearing a mask is obligatory for all participants, including invigilators, throughout the entire examination time.",
-		"output": "All participants, including invigilators, are required to wear masks during written and oral examinations.",
-		"category": "Health and Safety"
-	},
-	{
-		"instruction": "Exceptions to mask requirement",
-		"input": "There are exceptions to the mask requirement for identification purposes. Students may briefly pull down their masks during identification. However, masks must be worn at all times beyond these exceptions. Students failing to comply may be excluded from the examination.",
-		"output": "Students are allowed to briefly pull down their masks for identification purposes, but they must wear masks at all other times. Failure to comply may result in exclusion from the examination.",
-		"category": "Health and Safety"
-	},
-	{
-		"instruction": "Proof of immunization or testing for COVID-19",
-		"input": "Examinees must show relevant proof of immunization or testing for COVID-19 upon entry to the examination room. Examiners and the examination supervisor are required to check the proof. Students failing to provide the required evidence will not be allowed to take the examination and will be recorded as 'failed to appear.'",
-		"output": "Examinees must present proof of immunization or testing for COVID-19 upon entering the examination room. Failure to provide the required evidence will result in being unable to take the examination and will be recorded as 'failed to appear.'",
-		"category": "Health and Safety"
-	},
-	{
-	  "instruction": "Information about exams",
-	  "input": "Examinations for the winter semester 2021/22 will be held from January 24, 2022.",
-	  "output": "The examinations for the winter semester 2021/22 will commence on January 24, 2022.",
-	  "category": "Exam Information"
-	},
-	{
-	  "instruction": "Mask obligation during examinations",
-	  "input": "Wearing a mask is mandatory for all participants during written and oral examinations.",
-	  "output": "All participants must wear a mask during both written and oral examinations.",
-	  "category": "Exam Regulations"
-	},
-	{
-	  "instruction": "Proof of immunization and testing requirements",
-	  "input": "Examinees must provide relevant medical certificates or proof of immunization/testing for COVID-19 upon entering the examination room.",
-	  "output": "Examinees are required to show relevant medical certificates or proof of immunization/testing for COVID-19 when entering the examination room.",
-	  "category": "Exam Requirements"
-	},
-	{
-	  "instruction": "Quarantine regulations for exam participants",
-	  "input": "In case of quarantine, students must provide written confirmation to the examination office within 4 weeks of the examination day.",
-	  "output": "If a student is in quarantine, they must submit a written confirmation to the examination office within 4 weeks of the examination day.",
-	  "category": "Quarantine Guidelines"
-	},
-	{
-	  "instruction": "Exam schedule for the fall semester",
-	  "input": "The exam timetable for the fall semester is now available on the university website.",
-	  "output": "You can find the exam schedule for the fall semester on the university website.",
-	  "category": "Exam Information"
-	},
-	{
-	  "instruction": "Special accommodations for exams",
-	  "input": "Students with disabilities or special needs should contact the Disability Support Services office to arrange for appropriate exam accommodations.",
-	  "output": "If you have disabilities or special needs, please get in touch with the Disability Support Services office to make arrangements for suitable exam accommodations.",
-	  "category": "Exam Support"
-	},
-	{
-	  "instruction": "Prohibited items during exams",
-	  "input": "Electronic devices, including cell phones and smartwatches, are strictly prohibited during examinations.",
-	  "output": "During exams, you are not allowed to have electronic devices, such as cell phones and smartwatches, with you.",
-	  "category": "Exam Regulations"
-	},
-	{
-	  "instruction": "Exam grading policy",
-	  "input": "Exams will be graded based on a scale of 0 to 100, with 70 or above considered a passing grade.",
-	  "output": "Grading for exams will be done on a scale of 0 to 100, where a score of 70 or higher is considered a passing grade.",
-	  "category": "Exam Evaluation"
-	},
-	{
-	  "instruction": "Calculators allowed for exams",
-	  "input": "Only non-programmable calculators are permitted for use during exams. Programmable calculators or any devices with internet access are strictly prohibited.",
-	  "output": "You can only use non-programmable calculators during exams. Programmable calculators or any devices with internet access are strictly prohibited.",
-	  "category": "Exam Regulations"
-	},
-	{
-	  "instruction": "Exam room assignments",
-	  "input": "The exam room assignments for each course will be posted on the bulletin board outside the registrar's office.",
-	  "output": "You can find the exam room assignments for each course on the bulletin board outside the registrar's office.",
-	  "category": "Exam Information"
-	},
-	{
-	  "instruction": "Exam rescheduling policy",
-	  "input": "Students can request to reschedule an exam due to documented medical reasons or extenuating circumstances. The request must be submitted at least 48 hours before the scheduled exam time.",
-	  "output": "If you have documented medical reasons or extenuating circumstances, you can request to reschedule an exam. Please ensure that you submit the request at least 48 hours prior to the scheduled exam time.",
-	  "category": "Exam Support"
-	},
-	{
-	  "instruction": "Exam review sessions",
-	  "input": "Review sessions will be held next week to go over the material for the upcoming exams. The schedule and locations will be announced in class.",
-	  "output": "Next week, there will be review sessions to cover the material for the upcoming exams. The schedule and locations of these sessions will be announced in class.",
-	  "category": "Exam Information"
-	},
-	{
-	  "instruction": "Exam grading policy",
-	  "input": "Exams will be graded based on a combination of multiple-choice questions, short answer questions, and essay questions. Each type of question carries a different weightage in the overall grading.",
-	  "output": "The grading of exams will consider multiple-choice questions, short answer questions, and essay questions, with each type of question having a different impact on the overall grading.",
-	  "category": "Exam Evaluation"
-	},
-	{
-	  "instruction": "Exam location change",
-	  "input": "The exam originally scheduled in Room A has been moved to Room B due to unforeseen circumstances. Please make a note of the new location.",
-	  "output": "Due to unforeseen circumstances, the exam initially planned in Room A will now take place in Room B. Please remember to check the new location.",
-	  "category": "Exam Information"
-	},
-	{
-	  "instruction": "Exam accommodations for disabilities",
-	  "input": "Students with disabilities are eligible for exam accommodations. Please contact the Disability Support Services office to arrange necessary accommodations.",
-	  "output": "If you have a disability, you can request exam accommodations. Kindly reach out to the Disability Support Services office to make the necessary arrangements.",
-	  "category": "Exam Support"
-	},
-	{
-	  "instruction": "Exam duration",
-	  "input": "The duration of the exam is two hours. No additional time will be given beyond the allocated time.",
-	  "output": "The exam will last for a duration of two hours. No extra time will be provided beyond the allocated time.",
-	  "category": "Exam Regulations"
-	},
-	{
-	  "instruction": "Exam postponement policy",
-	  "input": "Exams cannot be postponed except in cases of extreme emergencies. A documented proof will be required to reschedule an exam.",
-	  "output": "Exams can only be postponed in cases of extreme emergencies, and you will need to provide documented proof for rescheduling.",
-	  "category": "Exam Regulations"
-	},
-	{
-	  "instruction": "Exam materials allowed",
-	  "input": "Only pens, pencils, and erasers are allowed as writing materials for exams. Any additional materials such as calculators or rulers are not permitted.",
-	  "output": "You can only use pens, pencils, and erasers as writing materials during exams. Please refrain from bringing calculators or rulers.",
-	  "category": "Exam Regulations"
-	},
-	{
-	  "instruction": "Exam retake policy",
-	  "input": "Students who fail an exam are allowed one opportunity to retake the exam. The retake score will replace the original score in the final grade calculation.",
-	  "output": "If you fail an exam, you can retake it once. The retake score will replace the original score in the final grade calculation.",
-	  "category": "Exam Evaluation"
-	},
-	{
-	  "instruction": "Exam result release date",
-	  "input": "The exam results will be released within two weeks after the exam date. Students will be able to access their results through the online student portal.",
-	  "output": "You can expect the release of the exam results within two weeks after the exam date. You will be able to access your results through the online student portal.",
-	  "category": "Exam Information"
-	},
-	{
-	  "instruction": "Exam seating arrangement",
-	  "input": "The exam seating arrangement will be posted outside the exam room prior to the start of the exam. Please find your assigned seat according to the posted list.",
-	  "output": "Prior to the exam, the seating arrangement will be displayed outside the exam room. Please locate your assigned seat based on the provided list.",
-	  "category": "Exam Information"
-	},
-	{
-	  "instruction": "Exam study guide",
-	  "input": "A comprehensive study guide will be provided to help students prepare for the upcoming exams. The study guide covers all the important topics and concepts.",
-	  "output": "To aid in your exam preparation, a detailed study guide will be provided. The study guide encompasses all the essential topics and concepts.",
-	  "category": "Exam Support"
-	},
-	{
-	  "instruction": "Exam conflict resolution",
-	  "input": "If you have two exams scheduled at the same time or overlapping, please inform the instructors as soon as possible to make alternate arrangements.",
-	  "output": "If you have two exams scheduled at the same time or overlapping, please notify the instructors immediately for alternative arrangements to be made.",
-	  "category": "Exam Support"
-	},
-	{
-	  "instruction": "Exam proctoring",
-	  "input": "All exams will be proctored to maintain a fair and secure testing environment. Proctors will be present to monitor the students during the exam.",
-	  "output": "To ensure fairness and security, all exams will be proctored. Proctors will oversee the students during the exam.",
-	  "category": "Exam Regulations"
-	},
-	{
-	  "instruction": "Exam format",
-	  "input": "The exam will consist of multiple-choice questions and essay questions. The multiple-choice section will contribute 60% to the total score, while the essay section will contribute 40%.",
-	  "output": "The exam will have both multiple-choice questions and essay questions. The multiple-choice section will account for 60% of the total score, while the essay section will account for 40%.",
-	  "category": "Exam Evaluation"
-	},
-	{
-	  "instruction": "Exam study groups",
-	  "input": "Students are encouraged to form study groups to prepare for the exams. Working together and discussing the material can enhance understanding and retention.",
-	  "output": "It is recommended that students form study groups to better prepare for the exams. Collaborating and discussing the material can improve comprehension and retention.",
-	  "category": "Exam Support"
-	},
-	{
-	  "instruction": "Exam review materials",
-	  "input": "Additional review materials, such as practice exams and sample questions, will be made available to help students prepare for the exams.",
-	  "output": "To assist with exam preparation, supplementary review materials, including practice exams and sample questions, will be provided.",
-	  "category": "Exam Support"
-	},
-	{
-	  "instruction": "Exam date change",
-	  "input": "The exam originally scheduled for Monday has been rescheduled to Wednesday due to a scheduling conflict. Please make note of the new date.",
-	  "output": "Due to a scheduling conflict, the exam originally planned for Monday has been rescheduled to Wednesday. Please remember to adjust to the new date.",
-	  "category": "Exam Information"
-	},
-	{
-	  "instruction": "Exam cheating policy",
-	  "input": "Any form of cheating during exams, including using unauthorized materials or communication with others, will result in severe penalties, including academic misconduct charges.",
-	  "output": "Engaging in any form of cheating during exams, such as using unauthorized materials or communicating with others, will lead to severe consequences, including academic misconduct charges.",
-	  "category": "Exam Regulations"
-	},
-	{
-	  "instruction": "Exam study schedule",
-	  "input": "Create a study schedule for the upcoming exams, allocating specific time slots for each subject. Ensure sufficient time for revision and practice.",
-	  "output": "Develop a study schedule for the upcoming exams, dedicating specific time slots for each subject. Make sure to allocate ample time for revision and practice.",
-	  "category": "Exam Support"
-	},
-	{
-	  "instruction": "Exam result appeal",
-	  "input": "If you disagree with your exam results, you have the option to submit an appeal within one week of receiving the results. Provide valid reasons for your appeal.",
-	  "output": "If you are dissatisfied with your exam results, you can submit an appeal within one week of receiving the results. Please provide valid reasons for your appeal.",
-	  "category": "Exam Evaluation"
-	},
-	{
-	  "instruction": "Exam attendance policy",
-	  "input": "Regular attendance is mandatory for all exams. Failure to attend an exam without a valid reason will result in a zero score for that exam.",
-	  "output": "Attending all exams is mandatory. If you fail to attend an exam without a valid reason, you will receive a zero score for that exam.",
-	  "category": "Exam Regulations"
-	},
-	{
-	  "instruction": "Exam study tips",
-	  "input": "Here are some study tips for the exams: create a study plan, break down the material into manageable chunks, practice with past exams, and seek clarification when needed.",
-	  "output": "To excel in the exams, consider the following study tips: establish a study plan, divide the material into smaller sections, practice with previous exams, and ask for clarification when necessary.",
-	  "category": "Exam Support"
-	},
-	{
-	  "instruction": "Exam grade calculation",
-	  "input": "The final exam grade will be calculated by combining the scores of all exams and assignments. The weighting of each component is as follows: exams (60%), assignments (40%).",
-	  "output": "To determine the final exam grade, the scores of all exams and assignments will be combined. The weighting for each component is as follows: exams (60%), assignments (40%).",
-	  "category": "Exam Evaluation"
-	},
-	{
-	  "instruction": "Exam invigilator instructions",
-	  "input": "Exam invigilators will provide instructions at the beginning of the exam. Please listen carefully and follow all the given instructions.",
-	  "output": "At the start of the exam, the invigilators will provide instructions. Please pay close attention and adhere to all the instructions given.",
-	  "category": "Exam Regulations"
-	},
-	{
-	  "instruction": "Exam study resources",
-	  "input": "Make use of various study resources, such as textbooks, lecture notes, online tutorials, and review sessions, to prepare for the exams.",
-	  "output": "Utilize a variety of study resources, including textbooks, lecture notes, online tutorials, and review sessions, to prepare for the exams.",
-	  "category": "Exam Support"
-	},
-	{
-	  "instruction": "Exam answer sheet",
-	  "input": "Ensure that you fill out the exam answer sheet correctly, following the provided instructions. Use a dark pen or pencil to mark your answers.",
-	  "output": "Please ensure that you accurately complete the exam answer sheet, adhering to the provided instructions. Use a dark pen or pencil to mark your answers.",
-	  "category": "Exam Regulations"
-	},
-	{
-	  "instruction": "Exam review session",
-	  "input": "A review session for the upcoming exams will be held on Friday. Attendance is highly recommended to clarify any doubts and gain a better understanding of the material.",
-	  "output": "To enhance your understanding and address any uncertainties, a review session for the upcoming exams will take place on Friday. We strongly encourage attendance.",
-	  "category": "Exam Support"
-	},
-	{
-	  "instruction": "Exam grade scale",
-	  "input": "The grading scale for exams is as follows: A (90-100), B (80-89), C (70-79), D (60-69), F (below 60). The final grade will be calculated based on the overall score.",
-	  "output": "The exam grading scale is as follows: A (90-100), B (80-89), C (70-79), D (60-69), F (below 60). The final grade will be determined by the overall score.",
-	  "category": "Exam Evaluation"
-	},
-	{
-	  "instruction": "Exam calculator policy",
-	  "input": "A scientific calculator is allowed for specific exams. Please check the exam guidelines to see if a calculator is permitted for your exam.",
-	  "output": "Certain exams permit the use of a scientific calculator. Please refer to the exam guidelines to verify whether a calculator is allowed for your specific exam.",
-	  "category": "Exam Regulations"
-	},
-	{
-	  "instruction": "Exam study environment",
-	  "input": "Find a quiet and comfortable study environment that is free from distractions to maximize your focus and concentration during exam preparation.",
-	  "output": "To optimize your focus and concentration while studying for exams, locate a quiet and comfortable environment that is devoid of distractions.",
-	  "category": "Exam Support"
-	},
-	{
-	  "instruction": "Exam grading criteria",
-	  "input": "The exams will be graded based on accuracy, clarity of expression, and depth of understanding. Pay attention to these criteria when preparing for the exams.",
-	  "output": "When getting ready for the exams, keep in mind that grading will be based on accuracy, clarity of expression, and depth of understanding. Consider these criteria during your preparation.",
-	  "category": "Exam Evaluation"
-	},
-	{
-	  "instruction": "Exam make-up policy",
-	  "input": "A make-up exam will be offered for students who have a valid reason for missing the original exam. Please contact the instructor to schedule a make-up exam.",
-	  "output": "Students who miss the original exam due to a valid reason can take a make-up exam. Please get in touch with the instructor to arrange a make-up exam.",
-	  "category": "Exam Regulations"
-	},
-	{
-	  "instruction": "Exam study breaks",
-	  "input": "Take regular breaks while studying for exams to avoid burnout and maintain focus. Use the breaks to relax, stretch, or engage in a physical activity.",
-	  "output": "To prevent burnout and sustain focus while studying for exams, make sure to take regular breaks. Utilize these breaks for relaxation, stretching, or engaging in physical activity.",
-	  "category": "Exam Support"
-	},
-	{
-	  "instruction": "Exam grade distribution",
-	  "input": "The grade distribution for exams is as follows: A (10% of students), B (25% of students), C (40% of students), D (20% of students), F (5% of students).",
-	  "output": "The distribution of grades for exams is as follows: A (10% of students), B (25% of students), C (40% of students), D (20% of students), F (5% of students).",
-	  "category": "Exam Evaluation"
-	},
-	{
-	  "instruction": "Exam study techniques",
-	  "input": "Experiment with different study techniques, such as summarizing the material, creating flashcards, teaching someone else, or using mnemonic devices.",
-	  "output": "Explore various study techniques, such as summarizing the content, making flashcards, teaching others, or employing mnemonic devices, to enhance your exam preparation.",
-	  "category": "Exam Support"
-	},
-	{
-	  "instruction": "Exam grade appeal process",
-	  "input": "If you wish to appeal your exam grade, you must submit a written appeal within one week of receiving the grade. Provide supporting evidence and reasons for your appeal.",
-	  "output": "To appeal your exam grade, you need to submit a written appeal within one week of receiving the grade. Please include supporting evidence and reasons for your appeal.",
-	  "category": "Exam Evaluation"
-	},
-	{
-	  "instruction": "Exam study motivation",
-	  "input": "Maintain your motivation for exam preparation by setting clear goals, rewarding yourself for progress, and seeking support from friends and family.",
-	  "output": "To stay motivated during exam preparation, establish clear goals, reward yourself for progress, and seek support from friends and family.",
-	  "category": "Exam Support"
-	},
-	{
-	  "instruction": "Exam grading timeline",
-	  "input": "The exams will be graded and the results will be available within two weeks of the exam date. You will be notified once the grades are ready.",
-	  "output": "The exams will be graded, and you can expect the results to be available within two weeks after the exam date. You will be notified when the grades are ready.",
-	  "category": "Exam Evaluation"
-	},
-	{
-	  "instruction": "Exam study environment",
-	  "input": "Create a conducive study environment by organizing your study materials, minimizing distractions, and ensuring adequate lighting and ventilation.",
-	  "output": "Establish a productive study environment by organizing your study materials, reducing distractions, and ensuring proper lighting and ventilation.",
-	  "category": "Exam Support"
-	},
-	{
-	  "instruction": "Examination schedule",
-	  "input": "The schedule for the winter semester 2021/22 examinations will be announced on the university website by December 15, 2021.",
-	  "output": "The examination schedule for the winter semester 2021/22 will be available on the university website starting from December 15, 2021.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Exam venue",
-	  "input": "The examinations for the winter semester 2021/22 will be held in the university's main auditorium and designated classrooms.",
-	  "output": "The winter semester 2021/22 examinations will take place in the university's main auditorium and designated classrooms.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Exam duration",
-	  "input": "The duration of each examination will vary depending on the course. Please check the examination schedule for specific details.",
-	  "output": "The duration of each examination may vary based on the course. Please refer to the examination schedule for precise information.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Face shield requirement",
-	  "input": "In addition to wearing masks, all participants are required to wear face shields during written examinations to provide extra protection.",
-	  "output": "For added protection, all participants must wear face shields along with masks during written examinations.",
-	  "category": "Health and Safety"
-	},
-	{
-	  "instruction": "Mask removal penalty",
-	  "input": "Removing the mask during the examination without a valid reason will result in a penalty, such as a deduction of marks or disqualification from the examination.",
-	  "output": "If a student removes their mask during the examination without a valid reason, they may face penalties, such as mark deductions or disqualification.",
-	  "category": "Health and Safety"
-	},
-	{
-	  "instruction": "COVID-19 testing options",
-	  "input": "Students who haven't been vaccinated can get tested for COVID-19 at designated testing centers within 48 hours before the examination.",
-	  "output": "Students who haven't received vaccination can opt for COVID-19 testing at designated centers within 48 hours prior to the examination.",
-	  "category": "Health and Safety"
-	},
-	{
-	  "instruction": "Late entry policy",
-	  "input": "Students arriving late for the examination will be allowed to enter the examination hall within the first 30 minutes. No entry will be permitted after that.",
-	  "output": "Students who arrive late for the examination will be allowed to enter the examination hall within the initial 30 minutes. No entry will be permitted after that.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Additional time for special needs",
-	  "input": "Students with documented special needs can request additional time for examinations. Please contact the Disability Support Services for further assistance.",
-	  "output": "Students with documented special needs can request extra time for examinations. For further assistance, please reach out to the Disability Support Services.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Seating arrangement",
-	  "input": "The seating arrangement for the examinations will be predetermined and communicated to the students before the examination day.",
-	  "output": "The seating arrangement for the examinations will be prearranged and shared with the students prior to the day of the examination.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Exam result publication",
-	  "input": "The results of the winter semester 2021/22 examinations will be published on the university portal within two weeks of the last examination date.",
-	  "output": "The results of the winter semester 2021/22 examinations will be available on the university portal within two weeks after the last examination date.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Important examination guidelines",
-	  "input": "All examinees are required to bring their student ID cards and examination hall tickets for verification purposes.",
-	  "output": "For verification, it is mandatory for all examinees to carry their student ID cards and examination hall tickets.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Electronic devices prohibition",
-	  "input": "Usage of electronic devices, such as mobile phones, tablets, or smartwatches, is strictly prohibited during the examination.",
-	  "output": "During the examination, the use of electronic devices, including mobile phones, tablets, and smartwatches, is strictly forbidden.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Exam attendance requirement",
-	  "input": "Regular attendance in classes throughout the semester is a prerequisite for being eligible to appear in the final examination.",
-	  "output": "To be eligible for the final examination, regular attendance in classes throughout the semester is mandatory.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Supplementary examination policy",
-	  "input": "Students who fail to pass the regular examination may be eligible to appear in the supplementary examination, subject to certain conditions.",
-	  "output": "Students who are unable to pass the regular examination may have the opportunity to take the supplementary examination, provided they meet specific criteria.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Emergency evacuation procedures",
-	  "input": "In case of an emergency evacuation during the examination, follow the instructions of the invigilators and proceed to the designated assembly point.",
-	  "output": "If an emergency evacuation occurs during the examination, please follow the instructions of the invigilators and proceed to the assigned assembly point.",
-	  "category": "Health and Safety"
-	},
-	{
-	  "instruction": "Latecomers policy",
-	  "input": "Students arriving late to the examination hall will not be allowed to enter once the examination has started.",
-	  "output": "Once the examination has commenced, students who arrive late to the examination hall will not be permitted to enter.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Authorized materials during the examination",
-	  "input": "Only authorized materials, such as pens, pencils, erasers, and calculators, are allowed inside the examination hall.",
-	  "output": "Inside the examination hall, only authorized materials like pens, pencils, erasers, and calculators are permitted.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Duration of the examination",
-	  "input": "The duration of the examination will be three hours, unless specified otherwise by the instructor.",
-	  "output": "Unless otherwise specified by the instructor, the examination will have a duration of three hours.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Submission of rough work",
-	  "input": "Rough work must be done in the space provided on the question paper and must not be removed from the examination hall.",
-	  "output": "All rough work should be completed in the designated space on the question paper and should not be taken out of the examination hall.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Exam result publication",
-	  "input": "The results of the examination will be published on the university website within two weeks of the examination date.",
-	  "output": "The examination results will be announced on the university website within a maximum of two weeks from the date of the examination.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "COVID-19 safety measures",
-	  "input": "In addition to mask-wearing, hand sanitizers will be provided at the entrance of the examination hall to ensure proper hand hygiene.",
-	  "output": "To ensure proper hand hygiene, hand sanitizers will be available at the entrance of the examination hall, in addition to the requirement of wearing masks.",
-	  "category": "Health and Safety"
-	},
-	{
-	  "instruction": "Social distancing during examinations",
-	  "input": "To maintain social distancing, seating arrangements in the examination hall will be modified, ensuring adequate space between examinees.",
-	  "output": "To adhere to social distancing guidelines, seating arrangements in the examination hall will be adjusted to provide sufficient space between examinees.",
-	  "category": "Health and Safety"
-	},
-	{
-	  "instruction": "Prohibited actions during the examination",
-	  "input": "Examinees are strictly prohibited from communicating with other examinees, copying, or engaging in any form of academic dishonesty.",
-	  "output": "During the examination, examinees are strictly forbidden from communicating with other examinees, copying answers, or participating in any form of academic misconduct.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Special accommodations for students with disabilities",
-	  "input": "Students requiring special accommodations due to disabilities should contact the examination office well in advance to make necessary arrangements.",
-	  "output": "Students with disabilities who require special accommodations should contact the examination office in advance to arrange the necessary support.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Use of scrap paper",
-	  "input": "Examinees may request additional scrap paper if needed, which will be provided by the invigilators during the examination.",
-	  "output": "If necessary, examinees can request additional scrap paper from the invigilators, who will supply it during the examination.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Prohibited items in the examination hall",
-	  "input": "Items such as bags, books, study materials, and electronic devices are strictly prohibited inside the examination hall.",
-	  "output": "Inside the examination hall, items like bags, books, study materials, and electronic devices are strictly forbidden.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Handling of answer sheets",
-	  "input": "Examinees must write their names, student IDs, and other required details on the answer sheets before beginning the examination.",
-	  "output": "Before starting the examination, examinees must provide their names, student IDs, and other necessary information on the answer sheets.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Emergency medical assistance",
-	  "input": "In case of a medical emergency during the examination, inform the invigilators immediately for prompt assistance.",
-	  "output": "If a medical emergency occurs during the examination, please notify the invigilators immediately for immediate assistance.",
-	  "category": "Health and Safety"
-	},
-	{
-	  "instruction": "Use of unauthorized aids",
-	  "input": "Using unauthorized aids, such as notes, textbooks, or electronic devices, during the examination is strictly prohibited.",
-	  "output": "Examinees are strictly prohibited from using unauthorized aids, including notes, textbooks, or electronic devices, during the examination.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Alternative examination arrangements",
-	  "input": "Students with valid reasons, such as medical conditions or other extenuating circumstances, may request alternative examination arrangements.",
-	  "output": "Students facing valid reasons, such as medical conditions or extenuating circumstances, may apply for alternative examination arrangements.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Exam timetable",
-	  "input": "The detailed timetable for the examinations will be posted on the notice board and the university website.",
-	  "output": "The complete examination timetable will be displayed on the notice board and the university website.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Lost student ID card",
-	  "input": "In case of a lost student ID card, students should report it to the examination office to make necessary arrangements for identification.",
-	  "output": "If a student loses their ID card, they should inform the examination office to make arrangements for identification purposes.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Instructions regarding multiple-choice questions",
-	  "input": "For multiple-choice questions, darken the circle corresponding to the chosen answer completely with a pencil.",
-	  "output": "When answering multiple-choice questions, fully shade the circle that corresponds to the chosen answer using a pencil.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Use of calculators in the examination",
-	  "input": "Only non-programmable and non-graphing calculators are allowed for use during the examination.",
-	  "output": "During the examination, only non-programmable and non-graphing calculators are permitted for use.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Identification requirements",
-	  "input": "Examinees must present their valid student ID cards or government-issued photo identification for verification purposes.",
-	  "output": "To verify their identity, examinees must provide a valid student ID card or government-issued photo identification.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Exam invigilation",
-	  "input": "Examinations will be conducted under the supervision of invigilators appointed by the examination office.",
-	  "output": "The examination will be supervised by invigilators designated by the examination office.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Unattended personal belongings",
-	  "input": "Do not leave your personal belongings unattended inside or outside the examination hall.",
-	  "output": "Please ensure that you do not leave your personal belongings unattended anywhere inside or outside the examination hall.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Special instructions for essay questions",
-	  "input": "For essay questions, write your answers clearly and legibly, using blue or black ink.",
-	  "output": "When answering essay questions, use blue or black ink and write your responses clearly and legibly.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Exam seating arrangement",
-	  "input": "The seating arrangement for the examination will be displayed on the notice board outside the examination hall.",
-	  "output": "The seating arrangement for the examination will be posted on the notice board located outside the examination hall.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Mobile phone usage during the examination",
-	  "input": "Mobile phones or any other electronic devices must be switched off and kept in bags or designated areas during the examination.",
-	  "output": "Mobile phones and other electronic devices must be turned off and stored in bags or designated areas throughout the examination.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Exam venue change",
-	  "input": "In case of any changes in the examination venue, students will be notified through email or an announcement on the university website.",
-	  "output": "If there are any changes in the examination venue, students will receive notification via email or an announcement on the university website.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Special consideration for linguistic diversity",
-	  "input": "For students with limited English proficiency, language assistance will be provided upon request during the examination.",
-	  "output": "Students with limited English proficiency can request language assistance during the examination.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Student code of conduct",
-	  "input": "All examinees must adhere to the student code of conduct during the examination, maintaining academic integrity and ethical behavior.",
-	  "output": "During the examination, all examinees must abide by the student code of conduct, which emphasizes academic integrity and ethical conduct.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Handling of confidential information",
-	  "input": "Examiners and invigilators are bound by confidentiality agreements and will handle all examination-related information with utmost discretion.",
-	  "output": "Examiners and invigilators are required to maintain confidentiality and handle all examination-related information with the utmost discretion.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Instructions for multiple-part questions",
-	  "input": "For questions with multiple parts, clearly label each part and provide answers accordingly.",
-	  "output": "When answering questions with multiple parts, ensure that each part is clearly labeled, and provide corresponding answers.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Exam attendance record",
-	  "input": "Attendance will be recorded at the beginning of the examination, and students who arrive after that time will be marked as late.",
-	  "output": "At the start of the examination, attendance will be taken, and students who arrive later will be marked as late.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Alternative dispute resolution",
-	  "input": "In case of any disputes or issues related to the examination, students can follow the university's alternative dispute resolution process.",
-	  "output": "If any disputes or issues arise regarding the examination, students can utilize the university's alternative dispute resolution process.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Exam invigilator's instructions",
-	  "input": "Follow the instructions provided by the invigilators carefully throughout the examination.",
-	  "output": "Please carefully follow the instructions given by the invigilators during the entire duration of the examination.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Transportation and parking",
-	  "input": "Students are responsible for arranging their own transportation and parking for the examination.",
-	  "output": "Students are required to arrange their own transportation and parking for the examination.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Use of headphones or earphones",
-	  "input": "The use of headphones or earphones is not allowed during the examination, unless specifically permitted for language translation purposes.",
-	  "output": "During the examination, the use of headphones or earphones is generally prohibited, except for cases where language translation is allowed.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Use of calculators",
-	  "input": "Only non-programmable and non-graphing calculators are allowed for use during the examination.",
-	  "output": "Participants are permitted to use only non-programmable and non-graphing calculators during the examination.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Exam duration",
-	  "input": "The duration of the examination will be two hours.",
-	  "output": "The examination will last for a duration of two hours.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Exam rules and regulations",
-	  "input": "All examinees must familiarize themselves with the exam rules and regulations before the examination.",
-	  "output": "It is important for all examinees to review and understand the exam rules and regulations prior to the examination.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Prohibited items",
-	  "input": "The following items are strictly prohibited inside the examination hall: mobile phones, smartwatches, calculators with built-in memory or communication capabilities.",
-	  "output": "Participants are not allowed to bring mobile phones, smartwatches, or calculators with built-in memory or communication capabilities into the examination hall.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Breaks during the examination",
-	  "input": "There will be a 10-minute break provided during the examination. Participants must remain in the designated break area and follow the instructions of the invigilators.",
-	  "output": "A 10-minute break will be given during the examination. Participants must stay in the designated break area and comply with the invigilators' instructions.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Latecomers policy",
-	  "input": "Students who arrive after the scheduled start time of the examination will not be allowed to enter the examination hall.",
-	  "output": "Students who arrive after the designated start time of the examination will be denied entry to the examination hall.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Submission of examination materials",
-	  "input": "At the end of the examination, participants must submit their answer sheets and any additional materials provided during the examination.",
-	  "output": "At the conclusion of the examination, participants are required to submit their answer sheets and any supplementary materials distributed during the examination.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Prohibited behaviors",
-	  "input": "Participants must refrain from talking, cheating, or engaging in any form of disruptive behavior during the examination.",
-	  "output": "Participants are expected to maintain silence, avoid cheating, and refrain from any behavior that may disrupt the examination process.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Special accommodations",
-	  "input": "Students with documented disabilities or special needs may request accommodations for the examination. The university's disability services office can provide further information.",
-	  "output": "Students with documented disabilities or special needs can request accommodations for the examination through the university's disability services office. Additional information is available from the office.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Emergency procedures",
-	  "input": "In the event of an emergency during the examination, participants must follow the instructions provided by the invigilators and evacuate the premises if necessary.",
-	  "output": "If an emergency occurs during the examination, participants must comply with the instructions given by the invigilators and evacuate the area if required.",
-	  "category": "Health and Safety"
-	},
-	{
-	  "instruction": "Emergency procedures",
-	  "input": "In the event of an emergency during the examination, participants must follow the instructions provided by the invigilators and evacuate the premises if necessary.",
-	  "output": "If an emergency occurs during the examination, participants must comply with the instructions given by the invigilators and evacuate the area if required.",
-	  "category": "Health and Safety"
-	},
-	{
-	  "instruction": "Late submission policy",
-	  "input": "Participants who submit their examination papers after the specified deadline will incur a penalty of 5% per day.",
-	  "output": "Participants will be penalized 5% per day for late submission of examination papers.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Use of scratch paper",
-	  "input": "Participants are allowed to use scratch paper for rough work during the examination. However, all final answers must be written in the answer booklet provided.",
-	  "output": "Participants may utilize scratch paper for rough work during the examination. However, all final answers must be recorded in the provided answer booklet.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Attendance requirements",
-	  "input": "Regular attendance in lectures and tutorials is mandatory to be eligible for the final examination.",
-	  "output": "To be eligible for the final examination, regular attendance in lectures and tutorials is compulsory.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Use of electronic devices",
-	  "input": "The use of electronic devices, such as laptops, tablets, or smartwatches, is strictly prohibited during the examination.",
-	  "output": "Participants are not permitted to use electronic devices, including laptops, tablets, or smartwatches, during the examination.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Rechecking of examination papers",
-	  "input": "Participants have the option to request a recheck of their examination papers within one week of the release of results.",
-	  "output": "Participants may apply for a recheck of their examination papers within one week of the result announcement.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Use of dictionaries",
-	  "input": "Participants are allowed to use bilingual dictionaries during the examination for translation purposes only.",
-	  "output": "Bilingual dictionaries can be used during the examination solely for the purpose of translation.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Special consideration policy",
-	  "input": "Participants who experience significant circumstances during the examination may be eligible for special consideration. Supporting documentation must be provided.",
-	  "output": "Participants who encounter significant circumstances during the examination may qualify for special consideration, subject to submission of supporting documentation.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Declaration of academic integrity",
-	  "input": "Participants are required to sign a declaration of academic integrity before the start of the examination.",
-	  "output": "Before commencing the examination, participants must sign a declaration affirming their commitment to academic integrity.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Examination timetable",
-	  "input": "The detailed timetable for the examinations will be published on the university's website one week prior to the start of the examination period.",
-	  "output": "The university will release the comprehensive examination timetable on its website one week before the commencement of the examination period.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Grading criteria",
-	  "input": "The grading criteria for the examination will be based on a combination of accuracy, reasoning, and presentation.",
-	  "output": "The examination will be graded based on accuracy, reasoning, and presentation as per the specified criteria.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Use of calculators",
-	  "input": "Participants are allowed to use non-programmable calculators for mathematical calculations during the examination.",
-	  "output": "Non-programmable calculators may be used for mathematical calculations during the examination.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Handling of examination malpractice",
-	  "input": "Instances of examination malpractice, such as cheating or plagiarism, will be strictly dealt with as per the university's academic integrity policy.",
-	  "output": "Cases of examination malpractice, including cheating or plagiarism, will be subject to strict action in accordance with the university's academic integrity policy.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Use of headphones",
-	  "input": "Participants are not permitted to wear headphones or earphones during the examination to maintain a distraction-free environment.",
-	  "output": "Wearing headphones or earphones during the examination is prohibited to ensure an environment free of distractions.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Supplemental examinations",
-	  "input": "Participants who fail the regular examination will have the opportunity to take a supplemental examination.",
-	  "output": "Participants who do not pass the regular examination will be eligible for a supplemental examination.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Examination venue",
-	  "input": "The examination will be conducted in the university's main auditorium.",
-	  "output": "The university's main auditorium will serve as the venue for the examination.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Special accommodations",
-	  "input": "Participants with disabilities or specific needs may request special accommodations for the examination.",
-	  "output": "Participants with disabilities or specific needs can apply for special accommodations for the examination.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Banned items",
-	  "input": "The following items are strictly prohibited inside the examination hall: mobile phones, smartwatches, calculators with programmable memory, and study materials.",
-	  "output": "Mobile phones, smartwatches, calculators with programmable memory, and study materials are not allowed inside the examination hall.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Examination duration",
-	  "input": "The examination will have a duration of three hours, including reading time.",
-	  "output": "The examination will last for three hours, which includes reading time.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Review of examination papers",
-	  "input": "Participants can review their examination papers within a specified period after the release of results.",
-	  "output": "Participants will have the opportunity to review their examination papers within a designated period following the announcement of results.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Late arrival policy",
-	  "input": "Participants who arrive late for the examination will not be given additional time and will have to complete the examination within the allotted duration.",
-	  "output": "Participants who arrive late for the examination will not receive extra time and must complete the examination within the scheduled duration.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Submission of rough work",
-	  "input": "Participants are required to submit their rough work along with the final answer sheets at the end of the examination.",
-	  "output": "Participants must submit their rough work along with the final answer sheets at the conclusion of the examination.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Electronic devices in the examination hall",
-	  "input": "Participants are strictly prohibited from bringing any electronic devices, such as laptops or tablets, inside the examination hall.",
-	  "output": "Bringing electronic devices, including laptops or tablets, into the examination hall is strictly prohibited.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Use of scratch paper",
-	  "input": "Participants may request additional scratch paper during the examination if needed.",
-	  "output": "If needed, participants can ask for extra scratch paper during the examination.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Proctoring during the examination",
-	  "input": "The examination will be proctored to ensure fairness and maintain the integrity of the assessment process.",
-	  "output": "To ensure fairness and uphold the integrity of the assessment process, the examination will be proctored.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Use of scientific calculators",
-	  "input": "Participants are allowed to use scientific calculators with non-programmable functions during the examination.",
-	  "output": "Scientific calculators with non-programmable functions are permitted for use during the examination.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Request for clarification during the examination",
-	  "input": "Participants can raise their hand to seek clarification from the invigilator during the examination.",
-	  "output": "Participants may raise their hand to ask for clarification from the invigilator during the examination.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Use of reference materials",
-	  "input": "Participants are not allowed to use any reference materials, including textbooks or study guides, during the examination.",
-	  "output": "Using any reference materials, such as textbooks or study guides, during the examination is not permitted.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Question paper format",
-	  "input": "The question paper will consist of multiple-choice questions, short answer questions, and essay-type questions.",
-	  "output": "The question paper will include multiple-choice questions, short answer questions, and essay-type questions.",
-	  "category": "Academic"
-	},
-	{
-	  "instruction": "Seating arrangement",
-	  "input": "Participants will be assigned designated seats for the examination to maintain order and prevent unauthorized activities.",
-	  "output": "To ensure order and prevent unauthorized activities, participants will be allocated specific seats for the examination.",
-	  "category": "Academic"
-	},
+[
+  {
+    "instruction": "Examinations in the winter semester 2021/22",
+    "input": "Examinations in the winter semester 2021/22 January 24, 2022",
+    "output": "The examinations for the winter semester 2021/22 will take place on January 24, 2022.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Mask obligation during examinations",
+    "input": "1. Written and oral examinations require the presence of participants. Mask obligation: Wearing a mask is obligatory for all participants, including invigilators, throughout the entire examination time.",
+    "output": "All participants, including invigilators, are required to wear masks during written and oral examinations.",
+    "category": "Health and Safety"
+  },
+  {
+    "instruction": "Exceptions to mask requirement",
+    "input": "There are exceptions to the mask requirement for identification purposes. Students may briefly pull down their masks during identification. However, masks must be worn at all times beyond these exceptions. Students failing to comply may be excluded from the examination.",
+    "output": "Students are allowed to briefly pull down their masks for identification purposes, but they must wear masks at all other times. Failure to comply may result in exclusion from the examination.",
+    "category": "Health and Safety"
+  },
+  {
+    "instruction": "Proof of immunization or testing for COVID-19",
+    "input": "Examinees must show relevant proof of immunization or testing for COVID-19 upon entry to the examination room. Examiners and the examination supervisor are required to check the proof. Students failing to provide the required evidence will not be allowed to take the examination and will be recorded as 'failed to appear.'",
+    "output": "Examinees must present proof of immunization or testing for COVID-19 upon entering the examination room. Failure to provide the required evidence will result in being unable to take the examination and will be recorded as 'failed to appear.'",
+    "category": "Health and Safety"
+  },
+  {
+    "instruction": "Information about exams",
+    "input": "Examinations for the winter semester 2021/22 will be held from January 24, 2022.",
+    "output": "The examinations for the winter semester 2021/22 will commence on January 24, 2022.",
+    "category": "Exam Information"
+  },
+  {
+    "instruction": "Mask obligation during examinations",
+    "input": "Wearing a mask is mandatory for all participants during written and oral examinations.",
+    "output": "All participants must wear a mask during both written and oral examinations.",
+    "category": "Exam Regulations"
+  },
+  {
+    "instruction": "Proof of immunization and testing requirements",
+    "input": "Examinees must provide relevant medical certificates or proof of immunization/testing for COVID-19 upon entering the examination room.",
+    "output": "Examinees are required to show relevant medical certificates or proof of immunization/testing for COVID-19 when entering the examination room.",
+    "category": "Exam Requirements"
+  },
+  {
+    "instruction": "Quarantine regulations for exam participants",
+    "input": "In case of quarantine, students must provide written confirmation to the examination office within 4 weeks of the examination day.",
+    "output": "If a student is in quarantine, they must submit a written confirmation to the examination office within 4 weeks of the examination day.",
+    "category": "Quarantine Guidelines"
+  },
+  {
+    "instruction": "Exam schedule for the fall semester",
+    "input": "The exam timetable for the fall semester is now available on the university website.",
+    "output": "You can find the exam schedule for the fall semester on the university website.",
+    "category": "Exam Information"
+  },
+  {
+    "instruction": "Special accommodations for exams",
+    "input": "Students with disabilities or special needs should contact the Disability Support Services office to arrange for appropriate exam accommodations.",
+    "output": "If you have disabilities or special needs, please get in touch with the Disability Support Services office to make arrangements for suitable exam accommodations.",
+    "category": "Exam Support"
+  },
+  {
+    "instruction": "Prohibited items during exams",
+    "input": "Electronic devices, including cell phones and smartwatches, are strictly prohibited during examinations.",
+    "output": "During exams, you are not allowed to have electronic devices, such as cell phones and smartwatches, with you.",
+    "category": "Exam Regulations"
+  },
+  {
+    "instruction": "Exam grading policy",
+    "input": "Exams will be graded based on a scale of 0 to 100, with 70 or above considered a passing grade.",
+    "output": "Grading for exams will be done on a scale of 0 to 100, where a score of 70 or higher is considered a passing grade.",
+    "category": "Exam Evaluation"
+  },
+  {
+    "instruction": "Calculators allowed for exams",
+    "input": "Only non-programmable calculators are permitted for use during exams. Programmable calculators or any devices with internet access are strictly prohibited.",
+    "output": "You can only use non-programmable calculators during exams. Programmable calculators or any devices with internet access are strictly prohibited.",
+    "category": "Exam Regulations"
+  },
+  {
+    "instruction": "Exam room assignments",
+    "input": "The exam room assignments for each course will be posted on the bulletin board outside the registrar's office.",
+    "output": "You can find the exam room assignments for each course on the bulletin board outside the registrar's office.",
+    "category": "Exam Information"
+  },
+  {
+    "instruction": "Exam rescheduling policy",
+    "input": "Students can request to reschedule an exam due to documented medical reasons or extenuating circumstances. The request must be submitted at least 48 hours before the scheduled exam time.",
+    "output": "If you have documented medical reasons or extenuating circumstances, you can request to reschedule an exam. Please ensure that you submit the request at least 48 hours prior to the scheduled exam time.",
+    "category": "Exam Support"
+  },
+  {
+    "instruction": "Exam review sessions",
+    "input": "Review sessions will be held next week to go over the material for the upcoming exams. The schedule and locations will be announced in class.",
+    "output": "Next week, there will be review sessions to cover the material for the upcoming exams. The schedule and locations of these sessions will be announced in class.",
+    "category": "Exam Information"
+  },
+  {
+    "instruction": "Exam grading policy",
+    "input": "Exams will be graded based on a combination of multiple-choice questions, short answer questions, and essay questions. Each type of question carries a different weightage in the overall grading.",
+    "output": "The grading of exams will consider multiple-choice questions, short answer questions, and essay questions, with each type of question having a different impact on the overall grading.",
+    "category": "Exam Evaluation"
+  },
+  {
+    "instruction": "Exam location change",
+    "input": "The exam originally scheduled in Room A has been moved to Room B due to unforeseen circumstances. Please make a note of the new location.",
+    "output": "Due to unforeseen circumstances, the exam initially planned in Room A will now take place in Room B. Please remember to check the new location.",
+    "category": "Exam Information"
+  },
+  {
+    "instruction": "Exam accommodations for disabilities",
+    "input": "Students with disabilities are eligible for exam accommodations. Please contact the Disability Support Services office to arrange necessary accommodations.",
+    "output": "If you have a disability, you can request exam accommodations. Kindly reach out to the Disability Support Services office to make the necessary arrangements.",
+    "category": "Exam Support"
+  },
+  {
+    "instruction": "Exam duration",
+    "input": "The duration of the exam is two hours. No additional time will be given beyond the allocated time.",
+    "output": "The exam will last for a duration of two hours. No extra time will be provided beyond the allocated time.",
+    "category": "Exam Regulations"
+  },
+  {
+    "instruction": "Exam postponement policy",
+    "input": "Exams cannot be postponed except in cases of extreme emergencies. A documented proof will be required to reschedule an exam.",
+    "output": "Exams can only be postponed in cases of extreme emergencies, and you will need to provide documented proof for rescheduling.",
+    "category": "Exam Regulations"
+  },
+  {
+    "instruction": "Exam materials allowed",
+    "input": "Only pens, pencils, and erasers are allowed as writing materials for exams. Any additional materials such as calculators or rulers are not permitted.",
+    "output": "You can only use pens, pencils, and erasers as writing materials during exams. Please refrain from bringing calculators or rulers.",
+    "category": "Exam Regulations"
+  },
+  {
+    "instruction": "Exam retake policy",
+    "input": "Students who fail an exam are allowed one opportunity to retake the exam. The retake score will replace the original score in the final grade calculation.",
+    "output": "If you fail an exam, you can retake it once. The retake score will replace the original score in the final grade calculation.",
+    "category": "Exam Evaluation"
+  },
+  {
+    "instruction": "Exam result release date",
+    "input": "The exam results will be released within two weeks after the exam date. Students will be able to access their results through the online student portal.",
+    "output": "You can expect the release of the exam results within two weeks after the exam date. You will be able to access your results through the online student portal.",
+    "category": "Exam Information"
+  },
+  {
+    "instruction": "Exam seating arrangement",
+    "input": "The exam seating arrangement will be posted outside the exam room prior to the start of the exam. Please find your assigned seat according to the posted list.",
+    "output": "Prior to the exam, the seating arrangement will be displayed outside the exam room. Please locate your assigned seat based on the provided list.",
+    "category": "Exam Information"
+  },
+  {
+    "instruction": "Exam study guide",
+    "input": "A comprehensive study guide will be provided to help students prepare for the upcoming exams. The study guide covers all the important topics and concepts.",
+    "output": "To aid in your exam preparation, a detailed study guide will be provided. The study guide encompasses all the essential topics and concepts.",
+    "category": "Exam Support"
+  },
+  {
+    "instruction": "Exam conflict resolution",
+    "input": "If you have two exams scheduled at the same time or overlapping, please inform the instructors as soon as possible to make alternate arrangements.",
+    "output": "If you have two exams scheduled at the same time or overlapping, please notify the instructors immediately for alternative arrangements to be made.",
+    "category": "Exam Support"
+  },
+  {
+    "instruction": "Exam proctoring",
+    "input": "All exams will be proctored to maintain a fair and secure testing environment. Proctors will be present to monitor the students during the exam.",
+    "output": "To ensure fairness and security, all exams will be proctored. Proctors will oversee the students during the exam.",
+    "category": "Exam Regulations"
+  },
+  {
+    "instruction": "Exam format",
+    "input": "The exam will consist of multiple-choice questions and essay questions. The multiple-choice section will contribute 60% to the total score, while the essay section will contribute 40%.",
+    "output": "The exam will have both multiple-choice questions and essay questions. The multiple-choice section will account for 60% of the total score, while the essay section will account for 40%.",
+    "category": "Exam Evaluation"
+  },
+  {
+    "instruction": "Exam study groups",
+    "input": "Students are encouraged to form study groups to prepare for the exams. Working together and discussing the material can enhance understanding and retention.",
+    "output": "It is recommended that students form study groups to better prepare for the exams. Collaborating and discussing the material can improve comprehension and retention.",
+    "category": "Exam Support"
+  },
+  {
+    "instruction": "Exam review materials",
+    "input": "Additional review materials, such as practice exams and sample questions, will be made available to help students prepare for the exams.",
+    "output": "To assist with exam preparation, supplementary review materials, including practice exams and sample questions, will be provided.",
+    "category": "Exam Support"
+  },
+  {
+    "instruction": "Exam date change",
+    "input": "The exam originally scheduled for Monday has been rescheduled to Wednesday due to a scheduling conflict. Please make note of the new date.",
+    "output": "Due to a scheduling conflict, the exam originally planned for Monday has been rescheduled to Wednesday. Please remember to adjust to the new date.",
+    "category": "Exam Information"
+  },
+  {
+    "instruction": "Exam cheating policy",
+    "input": "Any form of cheating during exams, including using unauthorized materials or communication with others, will result in severe penalties, including academic misconduct charges.",
+    "output": "Engaging in any form of cheating during exams, such as using unauthorized materials or communicating with others, will lead to severe consequences, including academic misconduct charges.",
+    "category": "Exam Regulations"
+  },
+  {
+    "instruction": "Exam study schedule",
+    "input": "Create a study schedule for the upcoming exams, allocating specific time slots for each subject. Ensure sufficient time for revision and practice.",
+    "output": "Develop a study schedule for the upcoming exams, dedicating specific time slots for each subject. Make sure to allocate ample time for revision and practice.",
+    "category": "Exam Support"
+  },
+  {
+    "instruction": "Exam result appeal",
+    "input": "If you disagree with your exam results, you have the option to submit an appeal within one week of receiving the results. Provide valid reasons for your appeal.",
+    "output": "If you are dissatisfied with your exam results, you can submit an appeal within one week of receiving the results. Please provide valid reasons for your appeal.",
+    "category": "Exam Evaluation"
+  },
+  {
+    "instruction": "Exam attendance policy",
+    "input": "Regular attendance is mandatory for all exams. Failure to attend an exam without a valid reason will result in a zero score for that exam.",
+    "output": "Attending all exams is mandatory. If you fail to attend an exam without a valid reason, you will receive a zero score for that exam.",
+    "category": "Exam Regulations"
+  },
+  {
+    "instruction": "Exam study tips",
+    "input": "Here are some study tips for the exams: create a study plan, break down the material into manageable chunks, practice with past exams, and seek clarification when needed.",
+    "output": "To excel in the exams, consider the following study tips: establish a study plan, divide the material into smaller sections, practice with previous exams, and ask for clarification when necessary.",
+    "category": "Exam Support"
+  },
+  {
+    "instruction": "Exam grade calculation",
+    "input": "The final exam grade will be calculated by combining the scores of all exams and assignments. The weighting of each component is as follows: exams (60%), assignments (40%).",
+    "output": "To determine the final exam grade, the scores of all exams and assignments will be combined. The weighting for each component is as follows: exams (60%), assignments (40%).",
+    "category": "Exam Evaluation"
+  },
+  {
+    "instruction": "Exam invigilator instructions",
+    "input": "Exam invigilators will provide instructions at the beginning of the exam. Please listen carefully and follow all the given instructions.",
+    "output": "At the start of the exam, the invigilators will provide instructions. Please pay close attention and adhere to all the instructions given.",
+    "category": "Exam Regulations"
+  },
+  {
+    "instruction": "Exam study resources",
+    "input": "Make use of various study resources, such as textbooks, lecture notes, online tutorials, and review sessions, to prepare for the exams.",
+    "output": "Utilize a variety of study resources, including textbooks, lecture notes, online tutorials, and review sessions, to prepare for the exams.",
+    "category": "Exam Support"
+  },
+  {
+    "instruction": "Exam answer sheet",
+    "input": "Ensure that you fill out the exam answer sheet correctly, following the provided instructions. Use a dark pen or pencil to mark your answers.",
+    "output": "Please ensure that you accurately complete the exam answer sheet, adhering to the provided instructions. Use a dark pen or pencil to mark your answers.",
+    "category": "Exam Regulations"
+  },
+  {
+    "instruction": "Exam review session",
+    "input": "A review session for the upcoming exams will be held on Friday. Attendance is highly recommended to clarify any doubts and gain a better understanding of the material.",
+    "output": "To enhance your understanding and address any uncertainties, a review session for the upcoming exams will take place on Friday. We strongly encourage attendance.",
+    "category": "Exam Support"
+  },
+  {
+    "instruction": "Exam grade scale",
+    "input": "The grading scale for exams is as follows: A (90-100), B (80-89), C (70-79), D (60-69), F (below 60). The final grade will be calculated based on the overall score.",
+    "output": "The exam grading scale is as follows: A (90-100), B (80-89), C (70-79), D (60-69), F (below 60). The final grade will be determined by the overall score.",
+    "category": "Exam Evaluation"
+  },
+  {
+    "instruction": "Exam calculator policy",
+    "input": "A scientific calculator is allowed for specific exams. Please check the exam guidelines to see if a calculator is permitted for your exam.",
+    "output": "Certain exams permit the use of a scientific calculator. Please refer to the exam guidelines to verify whether a calculator is allowed for your specific exam.",
+    "category": "Exam Regulations"
+  },
+  {
+    "instruction": "Exam study environment",
+    "input": "Find a quiet and comfortable study environment that is free from distractions to maximize your focus and concentration during exam preparation.",
+    "output": "To optimize your focus and concentration while studying for exams, locate a quiet and comfortable environment that is devoid of distractions.",
+    "category": "Exam Support"
+  },
+  {
+    "instruction": "Exam grading criteria",
+    "input": "The exams will be graded based on accuracy, clarity of expression, and depth of understanding. Pay attention to these criteria when preparing for the exams.",
+    "output": "When getting ready for the exams, keep in mind that grading will be based on accuracy, clarity of expression, and depth of understanding. Consider these criteria during your preparation.",
+    "category": "Exam Evaluation"
+  },
+  {
+    "instruction": "Exam make-up policy",
+    "input": "A make-up exam will be offered for students who have a valid reason for missing the original exam. Please contact the instructor to schedule a make-up exam.",
+    "output": "Students who miss the original exam due to a valid reason can take a make-up exam. Please get in touch with the instructor to arrange a make-up exam.",
+    "category": "Exam Regulations"
+  },
+  {
+    "instruction": "Exam study breaks",
+    "input": "Take regular breaks while studying for exams to avoid burnout and maintain focus. Use the breaks to relax, stretch, or engage in a physical activity.",
+    "output": "To prevent burnout and sustain focus while studying for exams, make sure to take regular breaks. Utilize these breaks for relaxation, stretching, or engaging in physical activity.",
+    "category": "Exam Support"
+  },
+  {
+    "instruction": "Exam grade distribution",
+    "input": "The grade distribution for exams is as follows: A (10% of students), B (25% of students), C (40% of students), D (20% of students), F (5% of students).",
+    "output": "The distribution of grades for exams is as follows: A (10% of students), B (25% of students), C (40% of students), D (20% of students), F (5% of students).",
+    "category": "Exam Evaluation"
+  },
+  {
+    "instruction": "Exam study techniques",
+    "input": "Experiment with different study techniques, such as summarizing the material, creating flashcards, teaching someone else, or using mnemonic devices.",
+    "output": "Explore various study techniques, such as summarizing the content, making flashcards, teaching others, or employing mnemonic devices, to enhance your exam preparation.",
+    "category": "Exam Support"
+  },
+  {
+    "instruction": "Exam grade appeal process",
+    "input": "If you wish to appeal your exam grade, you must submit a written appeal within one week of receiving the grade. Provide supporting evidence and reasons for your appeal.",
+    "output": "To appeal your exam grade, you need to submit a written appeal within one week of receiving the grade. Please include supporting evidence and reasons for your appeal.",
+    "category": "Exam Evaluation"
+  },
+  {
+    "instruction": "Exam study motivation",
+    "input": "Maintain your motivation for exam preparation by setting clear goals, rewarding yourself for progress, and seeking support from friends and family.",
+    "output": "To stay motivated during exam preparation, establish clear goals, reward yourself for progress, and seek support from friends and family.",
+    "category": "Exam Support"
+  },
+  {
+    "instruction": "Exam grading timeline",
+    "input": "The exams will be graded and the results will be available within two weeks of the exam date. You will be notified once the grades are ready.",
+    "output": "The exams will be graded, and you can expect the results to be available within two weeks after the exam date. You will be notified when the grades are ready.",
+    "category": "Exam Evaluation"
+  },
+  {
+    "instruction": "Exam study environment",
+    "input": "Create a conducive study environment by organizing your study materials, minimizing distractions, and ensuring adequate lighting and ventilation.",
+    "output": "Establish a productive study environment by organizing your study materials, reducing distractions, and ensuring proper lighting and ventilation.",
+    "category": "Exam Support"
+  },
+  {
+    "instruction": "Examination schedule",
+    "input": "The schedule for the winter semester 2021/22 examinations will be announced on the university website by December 15, 2021.",
+    "output": "The examination schedule for the winter semester 2021/22 will be available on the university website starting from December 15, 2021.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Exam venue",
+    "input": "The examinations for the winter semester 2021/22 will be held in the university's main auditorium and designated classrooms.",
+    "output": "The winter semester 2021/22 examinations will take place in the university's main auditorium and designated classrooms.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Exam duration",
+    "input": "The duration of each examination will vary depending on the course. Please check the examination schedule for specific details.",
+    "output": "The duration of each examination may vary based on the course. Please refer to the examination schedule for precise information.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Face shield requirement",
+    "input": "In addition to wearing masks, all participants are required to wear face shields during written examinations to provide extra protection.",
+    "output": "For added protection, all participants must wear face shields along with masks during written examinations.",
+    "category": "Health and Safety"
+  },
+  {
+    "instruction": "Mask removal penalty",
+    "input": "Removing the mask during the examination without a valid reason will result in a penalty, such as a deduction of marks or disqualification from the examination.",
+    "output": "If a student removes their mask during the examination without a valid reason, they may face penalties, such as mark deductions or disqualification.",
+    "category": "Health and Safety"
+  },
+  {
+    "instruction": "COVID-19 testing options",
+    "input": "Students who haven't been vaccinated can get tested for COVID-19 at designated testing centers within 48 hours before the examination.",
+    "output": "Students who haven't received vaccination can opt for COVID-19 testing at designated centers within 48 hours prior to the examination.",
+    "category": "Health and Safety"
+  },
+  {
+    "instruction": "Late entry policy",
+    "input": "Students arriving late for the examination will be allowed to enter the examination hall within the first 30 minutes. No entry will be permitted after that.",
+    "output": "Students who arrive late for the examination will be allowed to enter the examination hall within the initial 30 minutes. No entry will be permitted after that.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Additional time for special needs",
+    "input": "Students with documented special needs can request additional time for examinations. Please contact the Disability Support Services for further assistance.",
+    "output": "Students with documented special needs can request extra time for examinations. For further assistance, please reach out to the Disability Support Services.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Seating arrangement",
+    "input": "The seating arrangement for the examinations will be predetermined and communicated to the students before the examination day.",
+    "output": "The seating arrangement for the examinations will be prearranged and shared with the students prior to the day of the examination.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Exam result publication",
+    "input": "The results of the winter semester 2021/22 examinations will be published on the university portal within two weeks of the last examination date.",
+    "output": "The results of the winter semester 2021/22 examinations will be available on the university portal within two weeks after the last examination date.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Important examination guidelines",
+    "input": "All examinees are required to bring their student ID cards and examination hall tickets for verification purposes.",
+    "output": "For verification, it is mandatory for all examinees to carry their student ID cards and examination hall tickets.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Electronic devices prohibition",
+    "input": "Usage of electronic devices, such as mobile phones, tablets, or smartwatches, is strictly prohibited during the examination.",
+    "output": "During the examination, the use of electronic devices, including mobile phones, tablets, and smartwatches, is strictly forbidden.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Exam attendance requirement",
+    "input": "Regular attendance in classes throughout the semester is a prerequisite for being eligible to appear in the final examination.",
+    "output": "To be eligible for the final examination, regular attendance in classes throughout the semester is mandatory.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Supplementary examination policy",
+    "input": "Students who fail to pass the regular examination may be eligible to appear in the supplementary examination, subject to certain conditions.",
+    "output": "Students who are unable to pass the regular examination may have the opportunity to take the supplementary examination, provided they meet specific criteria.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Emergency evacuation procedures",
+    "input": "In case of an emergency evacuation during the examination, follow the instructions of the invigilators and proceed to the designated assembly point.",
+    "output": "If an emergency evacuation occurs during the examination, please follow the instructions of the invigilators and proceed to the assigned assembly point.",
+    "category": "Health and Safety"
+  },
+  {
+    "instruction": "Latecomers policy",
+    "input": "Students arriving late to the examination hall will not be allowed to enter once the examination has started.",
+    "output": "Once the examination has commenced, students who arrive late to the examination hall will not be permitted to enter.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Authorized materials during the examination",
+    "input": "Only authorized materials, such as pens, pencils, erasers, and calculators, are allowed inside the examination hall.",
+    "output": "Inside the examination hall, only authorized materials like pens, pencils, erasers, and calculators are permitted.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Duration of the examination",
+    "input": "The duration of the examination will be three hours, unless specified otherwise by the instructor.",
+    "output": "Unless otherwise specified by the instructor, the examination will have a duration of three hours.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Submission of rough work",
+    "input": "Rough work must be done in the space provided on the question paper and must not be removed from the examination hall.",
+    "output": "All rough work should be completed in the designated space on the question paper and should not be taken out of the examination hall.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Exam result publication",
+    "input": "The results of the examination will be published on the university website within two weeks of the examination date.",
+    "output": "The examination results will be announced on the university website within a maximum of two weeks from the date of the examination.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "COVID-19 safety measures",
+    "input": "In addition to mask-wearing, hand sanitizers will be provided at the entrance of the examination hall to ensure proper hand hygiene.",
+    "output": "To ensure proper hand hygiene, hand sanitizers will be available at the entrance of the examination hall, in addition to the requirement of wearing masks.",
+    "category": "Health and Safety"
+  },
+  {
+    "instruction": "Social distancing during examinations",
+    "input": "To maintain social distancing, seating arrangements in the examination hall will be modified, ensuring adequate space between examinees.",
+    "output": "To adhere to social distancing guidelines, seating arrangements in the examination hall will be adjusted to provide sufficient space between examinees.",
+    "category": "Health and Safety"
+  },
+  {
+    "instruction": "Prohibited actions during the examination",
+    "input": "Examinees are strictly prohibited from communicating with other examinees, copying, or engaging in any form of academic dishonesty.",
+    "output": "During the examination, examinees are strictly forbidden from communicating with other examinees, copying answers, or participating in any form of academic misconduct.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Special accommodations for students with disabilities",
+    "input": "Students requiring special accommodations due to disabilities should contact the examination office well in advance to make necessary arrangements.",
+    "output": "Students with disabilities who require special accommodations should contact the examination office in advance to arrange the necessary support.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Use of scrap paper",
+    "input": "Examinees may request additional scrap paper if needed, which will be provided by the invigilators during the examination.",
+    "output": "If necessary, examinees can request additional scrap paper from the invigilators, who will supply it during the examination.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Prohibited items in the examination hall",
+    "input": "Items such as bags, books, study materials, and electronic devices are strictly prohibited inside the examination hall.",
+    "output": "Inside the examination hall, items like bags, books, study materials, and electronic devices are strictly forbidden.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Handling of answer sheets",
+    "input": "Examinees must write their names, student IDs, and other required details on the answer sheets before beginning the examination.",
+    "output": "Before starting the examination, examinees must provide their names, student IDs, and other necessary information on the answer sheets.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Emergency medical assistance",
+    "input": "In case of a medical emergency during the examination, inform the invigilators immediately for prompt assistance.",
+    "output": "If a medical emergency occurs during the examination, please notify the invigilators immediately for immediate assistance.",
+    "category": "Health and Safety"
+  },
+  {
+    "instruction": "Use of unauthorized aids",
+    "input": "Using unauthorized aids, such as notes, textbooks, or electronic devices, during the examination is strictly prohibited.",
+    "output": "Examinees are strictly prohibited from using unauthorized aids, including notes, textbooks, or electronic devices, during the examination.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Alternative examination arrangements",
+    "input": "Students with valid reasons, such as medical conditions or other extenuating circumstances, may request alternative examination arrangements.",
+    "output": "Students facing valid reasons, such as medical conditions or extenuating circumstances, may apply for alternative examination arrangements.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Exam timetable",
+    "input": "The detailed timetable for the examinations will be posted on the notice board and the university website.",
+    "output": "The complete examination timetable will be displayed on the notice board and the university website.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Lost student ID card",
+    "input": "In case of a lost student ID card, students should report it to the examination office to make necessary arrangements for identification.",
+    "output": "If a student loses their ID card, they should inform the examination office to make arrangements for identification purposes.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Instructions regarding multiple-choice questions",
+    "input": "For multiple-choice questions, darken the circle corresponding to the chosen answer completely with a pencil.",
+    "output": "When answering multiple-choice questions, fully shade the circle that corresponds to the chosen answer using a pencil.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Use of calculators in the examination",
+    "input": "Only non-programmable and non-graphing calculators are allowed for use during the examination.",
+    "output": "During the examination, only non-programmable and non-graphing calculators are permitted for use.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Identification requirements",
+    "input": "Examinees must present their valid student ID cards or government-issued photo identification for verification purposes.",
+    "output": "To verify their identity, examinees must provide a valid student ID card or government-issued photo identification.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Exam invigilation",
+    "input": "Examinations will be conducted under the supervision of invigilators appointed by the examination office.",
+    "output": "The examination will be supervised by invigilators designated by the examination office.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Unattended personal belongings",
+    "input": "Do not leave your personal belongings unattended inside or outside the examination hall.",
+    "output": "Please ensure that you do not leave your personal belongings unattended anywhere inside or outside the examination hall.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Special instructions for essay questions",
+    "input": "For essay questions, write your answers clearly and legibly, using blue or black ink.",
+    "output": "When answering essay questions, use blue or black ink and write your responses clearly and legibly.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Exam seating arrangement",
+    "input": "The seating arrangement for the examination will be displayed on the notice board outside the examination hall.",
+    "output": "The seating arrangement for the examination will be posted on the notice board located outside the examination hall.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Mobile phone usage during the examination",
+    "input": "Mobile phones or any other electronic devices must be switched off and kept in bags or designated areas during the examination.",
+    "output": "Mobile phones and other electronic devices must be turned off and stored in bags or designated areas throughout the examination.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Exam venue change",
+    "input": "In case of any changes in the examination venue, students will be notified through email or an announcement on the university website.",
+    "output": "If there are any changes in the examination venue, students will receive notification via email or an announcement on the university website.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Special consideration for linguistic diversity",
+    "input": "For students with limited English proficiency, language assistance will be provided upon request during the examination.",
+    "output": "Students with limited English proficiency can request language assistance during the examination.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Student code of conduct",
+    "input": "All examinees must adhere to the student code of conduct during the examination, maintaining academic integrity and ethical behavior.",
+    "output": "During the examination, all examinees must abide by the student code of conduct, which emphasizes academic integrity and ethical conduct.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Handling of confidential information",
+    "input": "Examiners and invigilators are bound by confidentiality agreements and will handle all examination-related information with utmost discretion.",
+    "output": "Examiners and invigilators are required to maintain confidentiality and handle all examination-related information with the utmost discretion.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Instructions for multiple-part questions",
+    "input": "For questions with multiple parts, clearly label each part and provide answers accordingly.",
+    "output": "When answering questions with multiple parts, ensure that each part is clearly labeled, and provide corresponding answers.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Exam attendance record",
+    "input": "Attendance will be recorded at the beginning of the examination, and students who arrive after that time will be marked as late.",
+    "output": "At the start of the examination, attendance will be taken, and students who arrive later will be marked as late.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Alternative dispute resolution",
+    "input": "In case of any disputes or issues related to the examination, students can follow the university's alternative dispute resolution process.",
+    "output": "If any disputes or issues arise regarding the examination, students can utilize the university's alternative dispute resolution process.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Exam invigilator's instructions",
+    "input": "Follow the instructions provided by the invigilators carefully throughout the examination.",
+    "output": "Please carefully follow the instructions given by the invigilators during the entire duration of the examination.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Transportation and parking",
+    "input": "Students are responsible for arranging their own transportation and parking for the examination.",
+    "output": "Students are required to arrange their own transportation and parking for the examination.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Use of headphones or earphones",
+    "input": "The use of headphones or earphones is not allowed during the examination, unless specifically permitted for language translation purposes.",
+    "output": "During the examination, the use of headphones or earphones is generally prohibited, except for cases where language translation is allowed.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Use of calculators",
+    "input": "Only non-programmable and non-graphing calculators are allowed for use during the examination.",
+    "output": "Participants are permitted to use only non-programmable and non-graphing calculators during the examination.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Exam duration",
+    "input": "The duration of the examination will be two hours.",
+    "output": "The examination will last for a duration of two hours.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Exam rules and regulations",
+    "input": "All examinees must familiarize themselves with the exam rules and regulations before the examination.",
+    "output": "It is important for all examinees to review and understand the exam rules and regulations prior to the examination.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Prohibited items",
+    "input": "The following items are strictly prohibited inside the examination hall: mobile phones, smartwatches, calculators with built-in memory or communication capabilities.",
+    "output": "Participants are not allowed to bring mobile phones, smartwatches, or calculators with built-in memory or communication capabilities into the examination hall.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Breaks during the examination",
+    "input": "There will be a 10-minute break provided during the examination. Participants must remain in the designated break area and follow the instructions of the invigilators.",
+    "output": "A 10-minute break will be given during the examination. Participants must stay in the designated break area and comply with the invigilators' instructions.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Latecomers policy",
+    "input": "Students who arrive after the scheduled start time of the examination will not be allowed to enter the examination hall.",
+    "output": "Students who arrive after the designated start time of the examination will be denied entry to the examination hall.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Submission of examination materials",
+    "input": "At the end of the examination, participants must submit their answer sheets and any additional materials provided during the examination.",
+    "output": "At the conclusion of the examination, participants are required to submit their answer sheets and any supplementary materials distributed during the examination.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Prohibited behaviors",
+    "input": "Participants must refrain from talking, cheating, or engaging in any form of disruptive behavior during the examination.",
+    "output": "Participants are expected to maintain silence, avoid cheating, and refrain from any behavior that may disrupt the examination process.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Special accommodations",
+    "input": "Students with documented disabilities or special needs may request accommodations for the examination. The university's disability services office can provide further information.",
+    "output": "Students with documented disabilities or special needs can request accommodations for the examination through the university's disability services office. Additional information is available from the office.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Emergency procedures",
+    "input": "In the event of an emergency during the examination, participants must follow the instructions provided by the invigilators and evacuate the premises if necessary.",
+    "output": "If an emergency occurs during the examination, participants must comply with the instructions given by the invigilators and evacuate the area if required.",
+    "category": "Health and Safety"
+  },
+  {
+    "instruction": "Emergency procedures",
+    "input": "In the event of an emergency during the examination, participants must follow the instructions provided by the invigilators and evacuate the premises if necessary.",
+    "output": "If an emergency occurs during the examination, participants must comply with the instructions given by the invigilators and evacuate the area if required.",
+    "category": "Health and Safety"
+  },
+  {
+    "instruction": "Late submission policy",
+    "input": "Participants who submit their examination papers after the specified deadline will incur a penalty of 5% per day.",
+    "output": "Participants will be penalized 5% per day for late submission of examination papers.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Use of scratch paper",
+    "input": "Participants are allowed to use scratch paper for rough work during the examination. However, all final answers must be written in the answer booklet provided.",
+    "output": "Participants may utilize scratch paper for rough work during the examination. However, all final answers must be recorded in the provided answer booklet.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Attendance requirements",
+    "input": "Regular attendance in lectures and tutorials is mandatory to be eligible for the final examination.",
+    "output": "To be eligible for the final examination, regular attendance in lectures and tutorials is compulsory.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Use of electronic devices",
+    "input": "The use of electronic devices, such as laptops, tablets, or smartwatches, is strictly prohibited during the examination.",
+    "output": "Participants are not permitted to use electronic devices, including laptops, tablets, or smartwatches, during the examination.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Rechecking of examination papers",
+    "input": "Participants have the option to request a recheck of their examination papers within one week of the release of results.",
+    "output": "Participants may apply for a recheck of their examination papers within one week of the result announcement.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Use of dictionaries",
+    "input": "Participants are allowed to use bilingual dictionaries during the examination for translation purposes only.",
+    "output": "Bilingual dictionaries can be used during the examination solely for the purpose of translation.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Special consideration policy",
+    "input": "Participants who experience significant circumstances during the examination may be eligible for special consideration. Supporting documentation must be provided.",
+    "output": "Participants who encounter significant circumstances during the examination may qualify for special consideration, subject to submission of supporting documentation.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Declaration of academic integrity",
+    "input": "Participants are required to sign a declaration of academic integrity before the start of the examination.",
+    "output": "Before commencing the examination, participants must sign a declaration affirming their commitment to academic integrity.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Examination timetable",
+    "input": "The detailed timetable for the examinations will be published on the university's website one week prior to the start of the examination period.",
+    "output": "The university will release the comprehensive examination timetable on its website one week before the commencement of the examination period.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Grading criteria",
+    "input": "The grading criteria for the examination will be based on a combination of accuracy, reasoning, and presentation.",
+    "output": "The examination will be graded based on accuracy, reasoning, and presentation as per the specified criteria.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Use of calculators",
+    "input": "Participants are allowed to use non-programmable calculators for mathematical calculations during the examination.",
+    "output": "Non-programmable calculators may be used for mathematical calculations during the examination.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Handling of examination malpractice",
+    "input": "Instances of examination malpractice, such as cheating or plagiarism, will be strictly dealt with as per the university's academic integrity policy.",
+    "output": "Cases of examination malpractice, including cheating or plagiarism, will be subject to strict action in accordance with the university's academic integrity policy.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Use of headphones",
+    "input": "Participants are not permitted to wear headphones or earphones during the examination to maintain a distraction-free environment.",
+    "output": "Wearing headphones or earphones during the examination is prohibited to ensure an environment free of distractions.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Supplemental examinations",
+    "input": "Participants who fail the regular examination will have the opportunity to take a supplemental examination.",
+    "output": "Participants who do not pass the regular examination will be eligible for a supplemental examination.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Examination venue",
+    "input": "The examination will be conducted in the university's main auditorium.",
+    "output": "The university's main auditorium will serve as the venue for the examination.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Special accommodations",
+    "input": "Participants with disabilities or specific needs may request special accommodations for the examination.",
+    "output": "Participants with disabilities or specific needs can apply for special accommodations for the examination.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Banned items",
+    "input": "The following items are strictly prohibited inside the examination hall: mobile phones, smartwatches, calculators with programmable memory, and study materials.",
+    "output": "Mobile phones, smartwatches, calculators with programmable memory, and study materials are not allowed inside the examination hall.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Examination duration",
+    "input": "The examination will have a duration of three hours, including reading time.",
+    "output": "The examination will last for three hours, which includes reading time.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Review of examination papers",
+    "input": "Participants can review their examination papers within a specified period after the release of results.",
+    "output": "Participants will have the opportunity to review their examination papers within a designated period following the announcement of results.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Late arrival policy",
+    "input": "Participants who arrive late for the examination will not be given additional time and will have to complete the examination within the allotted duration.",
+    "output": "Participants who arrive late for the examination will not receive extra time and must complete the examination within the scheduled duration.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Submission of rough work",
+    "input": "Participants are required to submit their rough work along with the final answer sheets at the end of the examination.",
+    "output": "Participants must submit their rough work along with the final answer sheets at the conclusion of the examination.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Electronic devices in the examination hall",
+    "input": "Participants are strictly prohibited from bringing any electronic devices, such as laptops or tablets, inside the examination hall.",
+    "output": "Bringing electronic devices, including laptops or tablets, into the examination hall is strictly prohibited.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Use of scratch paper",
+    "input": "Participants may request additional scratch paper during the examination if needed.",
+    "output": "If needed, participants can ask for extra scratch paper during the examination.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Proctoring during the examination",
+    "input": "The examination will be proctored to ensure fairness and maintain the integrity of the assessment process.",
+    "output": "To ensure fairness and uphold the integrity of the assessment process, the examination will be proctored.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Use of scientific calculators",
+    "input": "Participants are allowed to use scientific calculators with non-programmable functions during the examination.",
+    "output": "Scientific calculators with non-programmable functions are permitted for use during the examination.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Request for clarification during the examination",
+    "input": "Participants can raise their hand to seek clarification from the invigilator during the examination.",
+    "output": "Participants may raise their hand to ask for clarification from the invigilator during the examination.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Use of reference materials",
+    "input": "Participants are not allowed to use any reference materials, including textbooks or study guides, during the examination.",
+    "output": "Using any reference materials, such as textbooks or study guides, during the examination is not permitted.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Question paper format",
+    "input": "The question paper will consist of multiple-choice questions, short answer questions, and essay-type questions.",
+    "output": "The question paper will include multiple-choice questions, short answer questions, and essay-type questions.",
+    "category": "Academic"
+  },
+  {
+    "instruction": "Seating arrangement",
+    "input": "Participants will be assigned designated seats for the examination to maintain order and prevent unauthorized activities.",
+    "output": "To ensure order and prevent unauthorized activities, participants will be allocated specific seats for the examination.",
+    "category": "Academic"
+  }
 ]
